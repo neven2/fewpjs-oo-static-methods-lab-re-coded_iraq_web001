@@ -1,6 +1,3 @@
-class Formatter {
- 
-}
 
 class Formatter {
    //add static methods here
