@@ -4,6 +4,7 @@
 
 
 class Formatter {
+    //add static methods here
   static capitalize(s) {
     if (typeof s !== 'string') return ''
     return s.charAt(0).toUpperCase() + s.slice(1)
@@ -34,6 +35,6 @@ class Formatter {
 
 }
 class Formatter {
-  //add static methods here
+
 }
 
