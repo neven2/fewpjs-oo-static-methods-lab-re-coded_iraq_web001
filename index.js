@@ -1,8 +1,4 @@
 
-
-
-
-
 class Formatter {
     //add static methods here
   static capitalize(s) {
@@ -34,7 +30,3 @@ class Formatter {
 
 
 }
-class Formatter {
-
-}
-
