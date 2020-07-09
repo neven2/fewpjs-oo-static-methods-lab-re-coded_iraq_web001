@@ -27,5 +27,6 @@ class Formatter {
 
     return words.join(' ')
   }
+  
 
 
